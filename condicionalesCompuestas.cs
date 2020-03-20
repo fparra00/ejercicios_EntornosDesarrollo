@@ -1,4 +1,11 @@
 ﻿using System;
+/*********************
+* Autor: Fernando Parra
+* Curso: 1DAM
+* Asignación: Condicionales condicionesCompuestas
+* Fecha Asignación: 5 de Febrero de 2020
+
+*********************/
 
 namespace condicionesCompuestas
 {
@@ -19,7 +26,7 @@ namespace condicionesCompuestas
             if (mes.Equals("ene")|| mes.Equals("feb") || mes.Equals("mar"))
             {
                 Console.WriteLine("El mes introducido es del primer trimestre");
-            } 
+            }
         }
     }
 }
