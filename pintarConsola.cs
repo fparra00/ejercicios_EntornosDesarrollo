@@ -1,5 +1,12 @@
 ﻿using System;
 
+/*********************
+* Autor: Fernando Parra
+* Curso: 1DAM
+* Asignación: pintarConsola
+* Fecha Asignación: 4 de Marzo de 2020
+*********************/
+
 namespace pintarConsola
 {
     class Program

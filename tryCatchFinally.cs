@@ -1,5 +1,12 @@
 ﻿using System;
 
+/*********************
+* Autor: Fernando Parra
+* Curso: 1DAM
+* Asignación: tryCatchFinally
+* Fecha Asignación: 4 de Marzo de 2020
+*********************/
+
 namespace tryCatchFinally
 {
     class Program
@@ -40,4 +47,3 @@ namespace tryCatchFinally
         }
     }
     }
-

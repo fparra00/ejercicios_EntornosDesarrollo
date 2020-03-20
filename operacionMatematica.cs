@@ -1,5 +1,12 @@
 ﻿using System;
 
+/*********************
+* Autor: Fernando Parra
+* Curso: 1DAM
+* Asignación: operacionMatematica
+* Fecha Asignación: 19 de Febrero de 2020
+*********************/
+
 namespace operacionMatematica
 {
     class Program
@@ -59,4 +66,3 @@ namespace operacionMatematica
         }
     }
     }
-

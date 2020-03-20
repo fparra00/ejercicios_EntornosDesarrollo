@@ -1,5 +1,12 @@
 ﻿using System;
 
+/*********************
+* Autor: Fernando Parra
+* Curso: 1DAM
+* Asignación: estructurasDeControl
+* Fecha Asignación: 12 de Febrero de 2020
+*********************/
+
 namespace estructurasDeControl
 {
     class Program

@@ -1,10 +1,10 @@
 ﻿using System;
+
 /*********************
 * Autor: Fernando Parra
 * Curso: 1DAM
 * Asignación: Condicionales condicionesCompuestas
 * Fecha Asignación: 5 de Febrero de 2020
-
 *********************/
 
 namespace condicionesCompuestas
